@@ -42,7 +42,7 @@ A breakdown of core competencies, research topics, and write-ups aligned with th
 ## 📂 Repository Structure
 
 ```text
-ai-research/
+ai-security-thm/
 ├── assets/                          # Architectural diagrams, terminal outputs, and lab validation
 ├── 01-the-building-blocks-of-ai.md  # Foundations of ML, Neural Networks & Transformers
 ├── 02-ai-security-threats.md        # Threat landscape and exploit mechanics
